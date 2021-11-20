@@ -60,7 +60,7 @@ You can also open [http://localhost:8000](http://localhost:3000) to view changes
 ### `npm install --save mongodb` 
 cd into backend folder then do the above command . This allows data to be stored in the backend . 
 
-### Type the url [mongodb://localhost:27017](mongodb://localhost:27017) `mongodb://localhost:27017` in the mongodb compass to connect to the database and access it .
+### Type the url [mongodb://localhost:27017](mongodb://localhost:27017) in the mongodb compass to connect to the database and access it .
 
 
 

@@ -1,4 +1,9 @@
 
+# Blog website 
+## MERN Stack
+### React / Express / MongoDB / Redux
+
+
 
 ### Link to the project deploy : https://blog-4tcxk47j9-aqib-javed1119.vercel.app 
 

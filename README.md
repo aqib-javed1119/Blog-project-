@@ -60,10 +60,10 @@ cd into backend folder then do this command . This allows data to be stored in t
 
 ### Type the url mongodb://localhost:27017 in the mongodb compass to connect to the database and access it .
 
-- ![#1589F0]mongodb://localhost:27017 `#1589F0`
 
 
 
 
 
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 

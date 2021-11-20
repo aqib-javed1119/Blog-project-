@@ -63,7 +63,3 @@ cd into backend folder then do this command . This allows data to be stored in t
 
 
 
-
-
-![#1589F0](mongodb://localhost:27017/1589F0/000000?text=+) `#1589F0`
-

@@ -56,7 +56,7 @@ After doing the command npm install --save nodemon  in the backend folder do thi
 --- 
 ### Install mongodb software  
 ### `npm install --save mongodb` 
-cd into backend folder then do this command . This allows data to be stored in the backend . 
+cd into backend folder then do the above command . This allows data to be stored in the backend . 
 
 ### Type the url `mongodb://localhost:27017` in the mongodb compass to connect to the database and access it .
 

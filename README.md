@@ -46,6 +46,8 @@ To start nodemon
 ### `npm install --save nodemon ` 
 To automatically update any changes to the nodemon 
 
+---
+
 ### Download Postman software to make GET and POST requests to test out the express.js api calls 
 
 ### `npm start` to start nodemon 

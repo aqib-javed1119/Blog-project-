@@ -52,7 +52,9 @@ To automatically update any changes to the nodemon
 ### `npm start` to start nodemon 
 After doing the command npm install --save nodemon  in the backend folder do this command to start the backend server then you can try the postman software to send api calls 
 
+### Open [http://localhost:8000](http://localhost:3000) to view changes in backend .
 --- 
+
 ### Install mongodb software  
 ### `npm install --save mongodb` 
 cd into backend folder then do the above command . This allows data to be stored in the backend . 

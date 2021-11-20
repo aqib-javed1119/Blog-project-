@@ -2,16 +2,9 @@
 # Blog website 
 ## MERN Stack
 ### React / Express / MongoDB / Node
-
-
-
-
-
 ### Link to the project deploy : https://blog-4tcxk47j9-aqib-javed1119.vercel.app 
 
-
-
-## To run the frontend
+## To test the frontend
 
 In the project directory, you can run:
 
@@ -22,6 +15,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### `npm install`
+
+To install the missing dependencies 
 
 ### `npm test`
 

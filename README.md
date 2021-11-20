@@ -1,7 +1,7 @@
 
 # Blog website 
 ## MERN Stack
-### React / Express / MongoDB / Redux
+### React / Express / MongoDB / Node
 
 
 

@@ -38,6 +38,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## To test the backend
 
+## Install nodemon software
+### `npm install -save express` in the backend folder to install express
+### `node src/server.js` to start nodemon 
+### `npm install --save nodemon ` to automatically update any changes to the nodemon 
+
+
+
 
 
 

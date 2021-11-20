@@ -61,10 +61,6 @@ cd into backend folder then do this command . This allows data to be stored in t
 ### Type the url mongodb://localhost:27017 in the mongodb compass to connect to the database and access it .
 
 
-```<span style="color:orange;"> 
-mongodb://localhost:27017 
-```</span>
-<span style="color:orange;"> mongodb://localhost:27017 </span>
 
 
 
